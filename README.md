@@ -1,4 +1,4 @@
 # langchain-demo
 
-Trying out the exercises in the course: https://learn.deeplearning.ai/langchain
+Trying out the APIs and langchain funcationalities taught in the course: https://learn.deeplearning.ai/langchain
 
